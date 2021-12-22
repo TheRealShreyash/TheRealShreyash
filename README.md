@@ -1,43 +1,27 @@
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Shreyash!
 <div align="center">
-    <h1> Heya 👋, I'm Shreyash aka HackerNoobOG</h1>
-    A passionate self-taught developer from <a href="https://www.google.com/maps/search/?api=1&query=Kolkata,India">Kolkata, India.</a>
-    <br>
-    <a href="https://dsc.gg/elice-server" target="blank">
-    <img align="center" src="./assets/socials/discord.svg" alt="H5NQcKJEa7" height="30" width="40" /></a>
-    </a>
-    <a href="https://instagram.com/thereal_shreyash" target="blank">
-    <img align="center" src="./assets/socials/instagram.svg" alt="thereal_shreyash" height="30" width="40" />
-    </a>
-    <!-- <a href="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/spotify.svg" target="blank">
-    <img align="center" src="./assets/socials/spotify.svg" alt="anish_sho" height="30" width="40" />
-    </a> -->
-    <!-- <a href="https://stackoverflow.com/users/11995214" target="blank">
-    <img align="center" src="./assets/socials/stack-overflow.svg" alt="11995214" height="30" width="40" />
-    </a> -->
-    <!-- <a href="https://twitter.com/anish_shobith" target="blank">
-    <img align="center" src="./assets/socials/twitter.svg" alt="anish_shobith" height="30" width="40" />
-    </a> -->
-    <hr>
-    <h4> <i> Programming Languages and Tools </i> </h4>
-    <img align="center" width="25px" src="./assets/languages/c.svg">
-    <img align="center" width="25px" src="./assets/languages/cpp.svg">
-    <img align="center" width="25px" src="./assets/languages/html.svg">
-    <img align="center" width="25px" src="./assets/languages/javascript.svg">
-    <img align="center" width="25px" src="./assets/tools/docker.svg">
-    <img align="center" width="25px" src="./assets/tools/git.svg">
-    <img align="center" width="25px" src="./assets/tools/heroku.svg">
-    <img align="center" width="25px" src="./assets/tools/intellij.svg">
-    <img align="center" width="25px" src="./assets/tools/nodejs.svg">
-    <img align="center" width="25px" src="./assets/tools/visualstudiocode.svg">
-    <img align="center" width="25px" src="./assets/tools/yarn.svg">
-    <hr>
-    <!-- <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=TheRealShreyash)](https://github.com/TheRealShreyash/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=TheRealShreyash&show_icons=true&hide_border=true&theme=dark&count_private=true">
-    <br>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheFakeShreyashh&" alt="therealshreyash" />
-    <br> -->
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealShreyash)](https://github.com/TheRealShreyash/github-readme-stats"> 
-    <br> -->
-    
+<p>
+🎨 [He/Him] • Student & Self-Passionate Dev <br>
+⌨️ Python • Learning Front-end • Visual Studio Code <br>
+🕐 Discord • Music • Code • GitHub <br>
+🤝 I read, I write; I think, I dream; I talk, I listen. <br>
+
+### 📬 Contact Me: <br>
+<img align="middle" src="https://discord.c99.nl/widget/theme-3/814784650194452550.png">
+</p>
+
+<hr>
+<p>
+<h2> 🔖 Some Statistics </h2>
+<a href="https://github.com/TheRealShreyash">
+
+![Profile Views](https://komarev.com/ghpvc/?username=TheRealShreyash&style=flat-square&color=c322fe) <br>
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=therealshreyash&background=0D1117&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&fire=c322fe&ring=c322fe&hide_border=true) <br>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=TheRealShreyash&include_all_commits=true&show_icons=true&count_private=true&show_owner=true&bg_color=0D1117&text_color=FFFFFF&icon_color=c322fe&title_color=FFFFFF&hide_border=true&hide=issues,prs) <br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealShreyash&show_icons=true&bg_color=0D1117&text_color=FFFFFF&title_color=FFFFFF&layout=compact&hide_border=true) <br>
+</a>
+<a href="https://open.spotify.com/user/31ryqrlgxrutewooxb6do5my3yaa">
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ryqrlgxrutewooxb6do5my3yaa&count=1)
+</a>
+</p>
 </div>
