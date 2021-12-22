@@ -1,6 +1,6 @@
 <div align="center">
     <h1> Heya 👋, I'm Shreyash aka HackerNoobOG</h1>
-    a passionate self-taught developer from <a href="https://www.google.com/maps/search/?api=1&query=Kolkata,India">Kolkata, India.</a>
+    A passionate self-taught developer from <a href="https://www.google.com/maps/search/?api=1&query=Kolkata,India">Kolkata, India.</a>
     <br>
     <a href="https://dsc.gg/elice-server" target="blank">
     <img align="center" src="./assets/socials/discord.svg" alt="H5NQcKJEa7" height="30" width="40" /></a>
@@ -31,13 +31,13 @@
     <img align="center" width="25px" src="./assets/tools/visualstudiocode.svg">
     <img align="center" width="25px" src="./assets/tools/yarn.svg">
     <hr>
-    <br>
+    <!-- <br>
     <img src="https://github-readme-stats.vercel.app/api?username=TheRealShreyash)](https://github.com/TheRealShreyash/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=TheRealShreyash&show_icons=true&hide_border=true&theme=dark&count_private=true">
     <br>
-    <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheFakeShreyashh&" alt="therealshreyash" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheFakeShreyashh&" alt="therealshreyash" />
     <br> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealShreyash)](https://github.com/TheRealShreyash/github-readme-stats">
-    <br>
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealShreyash)](https://github.com/TheRealShreyash/github-readme-stats"> 
+    <br> -->
     
 </div>
