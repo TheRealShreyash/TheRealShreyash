@@ -8,9 +8,9 @@
 
 ### Connect with me:
 
-[Discord](https://dsc.gg/elice-server)
-[Instagram](https://instagram.com/thereal_shreyash)
-[Website] Will available soon...
+- [Discord](https://dsc.gg/elice-server)
+- [Instagram](https://instagram.com/thereal_shreyash)
+- [Website]() Will available soon...
 
 <br />
 
