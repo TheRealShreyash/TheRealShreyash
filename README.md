@@ -2,7 +2,7 @@
 <div align="center">
 <p>
 🎨 [He/Him] • Student & Self-Passionate Dev <br>
-⌨️ Python • Learning Front-end • Visual Studio Code <br>
+⌨️ Currently Working on • [Alestro bot](https://dsc.gg/alestro) <br>
 🕐 Discord • Music • Code • GitHub <br>
 🤝 I read, I write; I think, I dream; I talk, I listen. <br>
 
