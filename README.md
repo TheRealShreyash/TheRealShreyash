@@ -2,7 +2,7 @@
 <div align="center">
 <p>
 🎨 [He/Him] • Student & Self-Passionate Dev <br>
-⌨️ Currently learning • React and NextJS <br>
+⌨️ Currently learning • Javascript <br>
 🕐 Discord • Music • Code • GitHub <br>
 🤝 I read, I write; I think, I dream; I talk, I listen. <br>
 
