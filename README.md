@@ -1,27 +1,25 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Shreyash!
-<div align="center">
-<p>
-🎨 [He/Him] • Student & Self-Passionate Dev <br>
-⌨️ Currently learning • Python <br>
-🕐 Discord • Music • Code • GitHub <br>
-🤝 I read, I write; I think, I dream; I talk, I listen. <br>
+<h1 align="center">Hi 👋, I'm Shreyash</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-### 📬 Contact Me: <br>
-<img align="middle" src="https://discord.c99.nl/widget/theme-3/814784650194452550.png">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=therealshreyash&label=Profile%20views&color=0e75b6&style=flat" alt="therealshreyash" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealshreyash" alt="therealshreyash" /></a> </p>
+
+- 🔭 I’m currently working on **Web Development And Python**
+
+- 🌱 I’m currently learning **Javascript**
+
+- 💬 Ask me about **Discord Bots, Tailwind CSS**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<hr>
-<p>
-<h2> 🔖 Some Statistics </h2>
-<a href="https://github.com/TheRealShreyash">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TheRealShreyash&style=flat-square&color=c322fe) <br>
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=therealshreyash&background=0D1117&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&fire=c322fe&ring=c322fe&hide_border=true) <br>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TheRealShreyash&include_all_commits=true&show_icons=true&count_private=true&show_owner=true&bg_color=0D1117&text_color=FFFFFF&icon_color=c322fe&title_color=FFFFFF&hide_border=true&hide=issues,prs) <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealShreyash&show_icons=true&bg_color=0D1117&text_color=FFFFFF&title_color=FFFFFF&layout=compact&hide_border=true) <br>
-</a>
-<a href="https://open.spotify.com/user/31ryqrlgxrutewooxb6do5my3yaa">
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ryqrlgxrutewooxb6do5my3yaa&count=1)
-</a>
-</p>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=therealshreyash&show_icons=true&locale=en&layout=compact" alt="therealshreyash" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=therealshreyash&show_icons=true&locale=en" alt="therealshreyash" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therealshreyash&" alt="therealshreyash" /></p>
