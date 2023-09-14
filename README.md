@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Web Development And Python**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **...**
 
-- 💬 Ask me about **Discord Bots, Tailwind CSS**
+- 💬 Ask me about **nothing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
