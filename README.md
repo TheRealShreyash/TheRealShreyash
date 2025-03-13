@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools I Use:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,js,python,nodejs,flask,mongodb,tailwindcss,react,vite,html,css" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,js,python,nodejs,flask,mongodb,tailwindcss,react,vite,html,css" alt="My Skills">
 </p>
 
 ![Alt](https://repobeats.axiom.co/api/embed/47f7fc7e379bcc7b79bd30382587c81d8698fe49.svg "Repobeats analytics image")  
