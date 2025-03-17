@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=therealshreyash&label=Profile%20views&color=0e75b6&style=flat" alt="therealshreyash" />
 </p>
 
-- 🔭 I’m currently working on **Web Development And Python**  
-- 🌱 I’m currently learning **...**  
-- 💬 Ask me about **nothing**  
+- 🔭 I’m currently working on **Pokedex**  
+- 🌱 I’m currently learning **Web Development**  
+- 💬 Ask me about **Web Development**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
