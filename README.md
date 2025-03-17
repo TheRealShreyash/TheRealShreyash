@@ -20,4 +20,4 @@
 </p>
 
 ![Alt](https://repobeats.axiom.co/api/embed/47f7fc7e379bcc7b79bd30382587c81d8698fe49.svg "Repobeats analytics image")  
-<img alt="github contribution snake animation" src="https://github.com/TheRealShreyash/zara/blob/main/.github/assets/github-snake.svg">
+<img alt="github contribution snake animation" src="assets/github-snake.svg">
